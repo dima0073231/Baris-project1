@@ -83,6 +83,7 @@ nav ul li a {
     color: white;
     animation: fadeIn 2s ease-in-out;
 }
+
 .overlay {
     position: absolute;
     top: 0;
