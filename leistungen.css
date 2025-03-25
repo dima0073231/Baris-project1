@@ -24,7 +24,7 @@ header {
     font-weight: bold;
    
     padding: 6px;
-    background-color: black;
+    
     @media (min-width:768px){
 font-size:25px ;
 margin-left: 10px;
